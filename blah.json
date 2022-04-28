@@ -1,7 +1,7 @@
 {
     "name": "Retus",
     "is_dark": true,
-        "colors": {
+    "colors": {
             "accent-color": "#1fb2b0",
             "accent": "#1fb2b0",
             "primary-color": "#1fb2b0",
@@ -26,5 +26,5 @@
             "menu-selected-color": "#3b3b3b",
             "reaction-row-button-selected-bg-color": "#4a4a4a",
             "togglesw-off-color": "#3b3b3b"
-        }
+    }
 }
