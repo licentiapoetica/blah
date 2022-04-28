@@ -17,6 +17,7 @@
         
             "timeline-background-color": "#161618",
             "timeline-text-color": "#dcddde",
+            "timeline-highlights-color": "#3b3b3b",
             "secondary-content": "#dcddde",
             "tertiary-content": "#dcddde",
             "timeline-text-secondary-color": "#b9bbbe",
